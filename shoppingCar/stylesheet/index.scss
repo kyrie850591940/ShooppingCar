@@ -6,6 +6,13 @@
             body{
                 overflow: hidden;
             }
+            #clearBtn{
+                width:200px;
+                height:40px;
+                background-color:white;
+                color:black;
+                font-size: 20px;
+            }
             li{
                 list-style-type: none;
             }

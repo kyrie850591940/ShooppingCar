@@ -1,4 +1,3 @@
-console.log("加载成功")
 
 //配置当前 index.html 引入的所有 . js 的文件
 
